@@ -1,0 +1,27 @@
+.center{text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   
+     
+}
+
+
+.p{
+font-family:"Berlin Sans FB Demi",monospace;
+font-weight: bold;
+font-size: 50px;
+
+
+}
+.content{
+text-align: left;
+    display: block;
+    justify-content: left;
+    align-items: left;
+    margin: auto;
+
+   font-family: "Lucida Console", "Courier New", monospace;
+   font-size: 30px;
+}
